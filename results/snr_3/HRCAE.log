@@ -1,0 +1,36 @@
+10-18 16:22:49 save_data: True
+10-18 16:22:49 data_dir: ./data
+10-18 16:22:49 sample_length: 1024
+10-18 16:22:49 sample_size: 200
+10-18 16:22:49 snr: 3
+10-18 16:22:49 model_name: HRCAE
+10-18 16:22:49 lambd: 0.2
+10-18 16:22:49 batch_size: 128
+10-18 16:22:49 epoch: 300
+10-18 16:22:49 lr: 0.01
+10-18 16:22:49 steps: 20,200
+10-18 16:22:49 gamma: 0.1
+10-18 16:22:49 lr_scheduler: MultiStep
+10-18 16:22:49 print_epoch: 5
+10-18 16:22:49 percentage_threshold: 95
+10-18 16:22:49 device: cuda:0
+10-18 16:26:11 save_data: True
+10-18 16:26:11 data_dir: ./data
+10-18 16:26:11 sample_length: 1024
+10-18 16:26:11 sample_size: 200
+10-18 16:26:11 snr: 3
+10-18 16:26:11 model_name: HRCAE
+10-18 16:26:11 lambd: 0.2
+10-18 16:26:11 batch_size: 128
+10-18 16:26:11 epoch: 300
+10-18 16:26:11 lr: 0.01
+10-18 16:26:11 steps: 20,200
+10-18 16:26:11 gamma: 0.1
+10-18 16:26:11 lr_scheduler: MultiStep
+10-18 16:26:11 print_epoch: 5
+10-18 16:26:11 percentage_threshold: 95
+10-18 16:26:11 device: cuda:0
+10-18 16:26:18 Val average Loss: 0.002947
+10-18 16:26:19 threshold: 0.0040
+10-18 16:26:19 Test average Loss: 0.004426
+10-18 16:26:19 Accuracy: 0.9950  Precision: 0.9901  Recall: 1.0000  F-score: 0.9950
